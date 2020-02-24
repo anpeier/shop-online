@@ -43,14 +43,16 @@ export default {
   overflow: hidden;
 }
 .signup-img-box {
-  height: 100%;
+  height: 400px;
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 100px;
+  box-sizing: border-box;
 }
 .signup-img-box > img {
-  height: 80%;
-  max-width: 90%;
+  height: 100%;
+  max-width: 80%;
 }
 .sign-up-title {
   width: 430px;
