@@ -2,7 +2,7 @@
   <div class="container">
     <Row>
       <i-col span="12" offset="2" class="signup-img-box">
-        <img src="/static/img/signup.jpg" alt />
+        <img src="./../../public/static/img/signup.jpg" alt />
       </i-col>
       <i-col span="8">
         <div class="sign-up-title">
