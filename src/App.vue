@@ -12,7 +12,8 @@ export default {
   }
 }
 </script>
-<style>
+<style lang="scss">
+@import './assets/scss/button.scss';
 *{
   margin: 0;
   padding: 0;
